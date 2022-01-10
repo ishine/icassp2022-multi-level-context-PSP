@@ -1,0 +1,6 @@
+__pycache__
+/log
+/checkpoint
+requirements.txt
+.ipynb_checkpoints
+.vscode
